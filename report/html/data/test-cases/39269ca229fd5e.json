@@ -1,0 +1,163 @@
+{
+  "uid" : "39269ca229fd5e",
+  "name" : "test_mms.TestMms.test_mms2[args0]",
+  "fullName" : "scripts.test_mms.TestMms.test_mms2[args0]",
+  "historyId" : "189123449b38648598fd789849438cf1",
+  "time" : {
+    "start" : 1542004076786,
+    "stop" : 1542004109960,
+    "duration" : 33174
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "点击新建信息",
+      "time" : {
+        "start" : 1542004081678,
+        "stop" : 1542004085873,
+        "duration" : 4195
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : false,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "输入接收人",
+      "time" : {
+        "start" : 1542004085873,
+        "stop" : 1542004096633,
+        "duration" : 10760
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "725d36b35e35a777",
+        "name" : "接收人",
+        "source" : "725d36b35e35a777.txt",
+        "type" : "text/plain",
+        "size" : 11
+      } ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : true,
+      "attachmentsCount" : 1,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "输入信息",
+      "time" : {
+        "start" : 1542004096633,
+        "stop" : 1542004106561,
+        "duration" : 9928
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "9c2e7f3b6e4a3fb1",
+        "name" : "信息",
+        "source" : "9c2e7f3b6e4a3fb1.txt",
+        "type" : "text/plain",
+        "size" : 5
+      }, {
+        "uid" : "f9d29910bd6b506c",
+        "name" : "截图",
+        "source" : "f9d29910bd6b506c.png",
+        "type" : "image/png",
+        "size" : 1383879
+      } ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : true,
+      "attachmentsCount" : 2,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "点击发送",
+      "time" : {
+        "start" : 1542004106561,
+        "stop" : 1542004108301,
+        "duration" : 1740
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : false,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "确认发送成功",
+      "time" : {
+        "start" : 1542004108301,
+        "stop" : 1542004109960,
+        "duration" : 1659
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : false,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 5,
+    "hasContent" : true,
+    "attachmentsCount" : 3,
+    "shouldDisplayMessage" : false
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "host",
+    "value" : "LAPTOP-HBI6OTB2"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "severity",
+    "value" : "blocker"
+  }, {
+    "name" : "thread",
+    "value" : "876-MainThread"
+  }, {
+    "name" : "suite",
+    "value" : "scripts"
+  }, {
+    "name" : "testClass",
+    "value" : "scripts"
+  }, {
+    "name" : "testMethod",
+    "value" : "test_mms.TestMms.test_mms2[args0]"
+  }, {
+    "name" : "package",
+    "value" : "scripts"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "blocker",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "39269ca229fd5e.json",
+  "parameterValues" : [ ]
+}

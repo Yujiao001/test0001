@@ -1,0 +1,5 @@
+"Status","Name","Duration in ms","Description"
+"passed","scripts.test_mms.TestMms.test_mms1[args1]","33777",""
+"passed","scripts.test_mms.TestMms.test_mms2[args1]","32586",""
+"passed","scripts.test_mms.TestMms.test_mms2[args0]","33174",""
+"passed","scripts.test_mms.TestMms.test_mms1[args0]","39972",""

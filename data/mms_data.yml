@@ -1,0 +1,11 @@
+test_mms1:
+  test_mms001:
+    receive: "13718701752"
+    msg: "hello"
+test_mms2:
+  test_mms001:
+    receive: "13718701752"
+    msg: "hello"
+  test_mms002:
+    receive: "13718701752"
+    msg: "world"

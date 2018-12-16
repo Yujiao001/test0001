@@ -1,0 +1,342 @@
+<ns0:test-suite xmlns:ns0="urn:model.allure.qatools.yandex.ru" start="1542004230036" stop="1542004498228">
+  <name>scripts</name>
+  <labels/>
+  <test-cases>
+    <test-case start="1542004230036" status="passed" stop="1542004263178">
+      <name>test_mms.TestMms.test_mms1[args0]</name>
+      <attachments/>
+      <labels>
+        <label name="severity" value="critical"/>
+        <label name="thread" value="12376-MainThread"/>
+        <label name="host" value="LAPTOP-HBI6OTB2"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps>
+        <step start="1542004234285" status="passed" stop="1542004238967">
+          <name>点击新建信息</name>
+          <title>点击新建信息</title>
+          <attachments/>
+          <steps/>
+        </step>
+        <step start="1542004238967" status="passed" stop="1542004249770">
+          <name>输入接收人</name>
+          <title>输入接收人</title>
+          <attachments>
+            <attachment source="fdf5a4f2-f0ca-409b-9eac-515961b54fbc-attachment.txt" title="接收人" type="text/plain"/>
+          </attachments>
+          <steps/>
+        </step>
+        <step start="1542004249770" status="passed" stop="1542004259771">
+          <name>输入信息</name>
+          <title>输入信息</title>
+          <attachments>
+            <attachment source="16c4e465-d46f-4e36-b26d-aae9176beb31-attachment.txt" title="信息" type="text/plain"/>
+            <attachment source="e22c6af4-95e9-4d1d-ab23-8e74d638b8ce-attachment.png" title="截图" type="image/png"/>
+          </attachments>
+          <steps/>
+        </step>
+        <step start="1542004259771" status="passed" stop="1542004261420">
+          <name>点击发送</name>
+          <title>点击发送</title>
+          <attachments/>
+          <steps/>
+        </step>
+        <step start="1542004261420" status="passed" stop="1542004263178">
+          <name>确认发送成功</name>
+          <title>确认发送成功</title>
+          <attachments/>
+          <steps/>
+        </step>
+      </steps>
+    </test-case>
+    <test-case start="1542004268991" status="passed" stop="1542004302444">
+      <name>test_mms.TestMms.test_mms1[args1]</name>
+      <attachments/>
+      <labels>
+        <label name="severity" value="critical"/>
+        <label name="thread" value="12376-MainThread"/>
+        <label name="host" value="LAPTOP-HBI6OTB2"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps>
+        <step start="1542004273958" status="passed" stop="1542004278261">
+          <name>点击新建信息</name>
+          <title>点击新建信息</title>
+          <attachments/>
+          <steps/>
+        </step>
+        <step start="1542004278261" status="passed" stop="1542004289707">
+          <name>输入接收人</name>
+          <title>输入接收人</title>
+          <attachments>
+            <attachment source="a990bd1c-2394-4d29-8588-ca35c073d96f-attachment.txt" title="接收人" type="text/plain"/>
+          </attachments>
+          <steps/>
+        </step>
+        <step start="1542004289707" status="passed" stop="1542004299438">
+          <name>输入信息</name>
+          <title>输入信息</title>
+          <attachments>
+            <attachment source="549e24d0-a5a2-4a5a-95bb-de7ffe029f75-attachment.txt" title="信息" type="text/plain"/>
+            <attachment source="9a826639-e2b0-4508-b521-a48d93590a27-attachment.png" title="截图" type="image/png"/>
+          </attachments>
+          <steps/>
+        </step>
+        <step start="1542004299438" status="passed" stop="1542004299906">
+          <name>点击发送</name>
+          <title>点击发送</title>
+          <attachments/>
+          <steps/>
+        </step>
+        <step start="1542004299906" status="passed" stop="1542004302443">
+          <name>确认发送成功</name>
+          <title>确认发送成功</title>
+          <attachments/>
+          <steps/>
+        </step>
+      </steps>
+    </test-case>
+    <test-case start="1542004308555" status="passed" stop="1542004340917">
+      <name>test_mms.TestMms.test_mms1[args2]</name>
+      <attachments/>
+      <labels>
+        <label name="severity" value="critical"/>
+        <label name="thread" value="12376-MainThread"/>
+        <label name="host" value="LAPTOP-HBI6OTB2"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps>
+        <step start="1542004313249" status="passed" stop="1542004317478">
+          <name>点击新建信息</name>
+          <title>点击新建信息</title>
+          <attachments/>
+          <steps/>
+        </step>
+        <step start="1542004317478" status="passed" stop="1542004328606">
+          <name>输入接收人</name>
+          <title>输入接收人</title>
+          <attachments>
+            <attachment source="7dd11d3f-d531-4c12-a9d0-95b347f8dffe-attachment.txt" title="接收人" type="text/plain"/>
+          </attachments>
+          <steps/>
+        </step>
+        <step start="1542004328606" status="passed" stop="1542004337404">
+          <name>输入信息</name>
+          <title>输入信息</title>
+          <attachments>
+            <attachment source="0e87071b-59cf-4349-a561-4f664588eaaa-attachment.txt" title="信息" type="text/plain"/>
+            <attachment source="74ac53ae-6871-4266-a433-8e302924a444-attachment.png" title="截图" type="image/png"/>
+          </attachments>
+          <steps/>
+        </step>
+        <step start="1542004337404" status="passed" stop="1542004338994">
+          <name>点击发送</name>
+          <title>点击发送</title>
+          <attachments/>
+          <steps/>
+        </step>
+        <step start="1542004338994" status="passed" stop="1542004340916">
+          <name>确认发送成功</name>
+          <title>确认发送成功</title>
+          <attachments/>
+          <steps/>
+        </step>
+      </steps>
+    </test-case>
+    <test-case start="1542004346912" status="passed" stop="1542004380753">
+      <name>test_mms.TestMms.test_mms1[args3]</name>
+      <attachments/>
+      <labels>
+        <label name="severity" value="critical"/>
+        <label name="thread" value="12376-MainThread"/>
+        <label name="host" value="LAPTOP-HBI6OTB2"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps>
+        <step start="1542004351729" status="passed" stop="1542004355849">
+          <name>点击新建信息</name>
+          <title>点击新建信息</title>
+          <attachments/>
+          <steps/>
+        </step>
+        <step start="1542004355849" status="passed" stop="1542004367669">
+          <name>输入接收人</name>
+          <title>输入接收人</title>
+          <attachments>
+            <attachment source="b94eb63d-497b-4806-b4eb-3e5399da02d6-attachment.txt" title="接收人" type="text/plain"/>
+          </attachments>
+          <steps/>
+        </step>
+        <step start="1542004367669" status="passed" stop="1542004377148">
+          <name>输入信息</name>
+          <title>输入信息</title>
+          <attachments>
+            <attachment source="08fbea34-9e6d-4867-9ceb-b2d98d566591-attachment.txt" title="信息" type="text/plain"/>
+            <attachment source="84cd0224-67f6-4ddd-a455-4a0ff555c5f5-attachment.png" title="截图" type="image/png"/>
+          </attachments>
+          <steps/>
+        </step>
+        <step start="1542004377148" status="passed" stop="1542004377596">
+          <name>点击发送</name>
+          <title>点击发送</title>
+          <attachments/>
+          <steps/>
+        </step>
+        <step start="1542004377596" status="passed" stop="1542004380753">
+          <name>确认发送成功</name>
+          <title>确认发送成功</title>
+          <attachments/>
+          <steps/>
+        </step>
+      </steps>
+    </test-case>
+    <test-case start="1542004386750" status="passed" stop="1542004420339">
+      <name>test_mms.TestMms.test_mms1[args4]</name>
+      <attachments/>
+      <labels>
+        <label name="severity" value="critical"/>
+        <label name="thread" value="12376-MainThread"/>
+        <label name="host" value="LAPTOP-HBI6OTB2"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps>
+        <step start="1542004391505" status="passed" stop="1542004395741">
+          <name>点击新建信息</name>
+          <title>点击新建信息</title>
+          <attachments/>
+          <steps/>
+        </step>
+        <step start="1542004395741" status="passed" stop="1542004406942">
+          <name>输入接收人</name>
+          <title>输入接收人</title>
+          <attachments>
+            <attachment source="114ef16d-3d7f-460b-b86a-2cf8b5e7899e-attachment.txt" title="接收人" type="text/plain"/>
+          </attachments>
+          <steps/>
+        </step>
+        <step start="1542004406942" status="passed" stop="1542004416762">
+          <name>输入信息</name>
+          <title>输入信息</title>
+          <attachments>
+            <attachment source="4883114a-cbc1-4d92-b9f0-cd9a6feba856-attachment.txt" title="信息" type="text/plain"/>
+            <attachment source="75f813e0-0b92-4683-a7ac-c5067eb8c0f7-attachment.png" title="截图" type="image/png"/>
+          </attachments>
+          <steps/>
+        </step>
+        <step start="1542004416762" status="passed" stop="1542004417206">
+          <name>点击发送</name>
+          <title>点击发送</title>
+          <attachments/>
+          <steps/>
+        </step>
+        <step start="1542004417206" status="passed" stop="1542004420338">
+          <name>确认发送成功</name>
+          <title>确认发送成功</title>
+          <attachments/>
+          <steps/>
+        </step>
+      </steps>
+    </test-case>
+    <test-case start="1542004422996" status="passed" stop="1542004456436">
+      <name>test_mms.TestMms.test_mms2[args0]</name>
+      <attachments/>
+      <labels>
+        <label name="severity" value="blocker"/>
+        <label name="thread" value="12376-MainThread"/>
+        <label name="host" value="LAPTOP-HBI6OTB2"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps>
+        <step start="1542004427373" status="passed" stop="1542004431692">
+          <name>点击新建信息</name>
+          <title>点击新建信息</title>
+          <attachments/>
+          <steps/>
+        </step>
+        <step start="1542004431692" status="passed" stop="1542004442944">
+          <name>输入接收人</name>
+          <title>输入接收人</title>
+          <attachments>
+            <attachment source="0dd91683-bcb7-441d-a3ac-a0286dda0611-attachment.txt" title="接收人" type="text/plain"/>
+          </attachments>
+          <steps/>
+        </step>
+        <step start="1542004442944" status="passed" stop="1542004452841">
+          <name>输入信息</name>
+          <title>输入信息</title>
+          <attachments>
+            <attachment source="5e13224f-ac1f-413f-a3f3-53f952f74632-attachment.txt" title="信息" type="text/plain"/>
+            <attachment source="6f86dc14-9ad4-4e8c-8867-e93fd0b02ce0-attachment.png" title="截图" type="image/png"/>
+          </attachments>
+          <steps/>
+        </step>
+        <step start="1542004452841" status="passed" stop="1542004455835">
+          <name>点击发送</name>
+          <title>点击发送</title>
+          <attachments/>
+          <steps/>
+        </step>
+        <step start="1542004455835" status="passed" stop="1542004456436">
+          <name>确认发送成功</name>
+          <title>确认发送成功</title>
+          <attachments/>
+          <steps/>
+        </step>
+      </steps>
+    </test-case>
+    <test-case start="1542004463664" status="passed" stop="1542004498228">
+      <name>test_mms.TestMms.test_mms2[args1]</name>
+      <attachments/>
+      <labels>
+        <label name="severity" value="blocker"/>
+        <label name="thread" value="12376-MainThread"/>
+        <label name="host" value="LAPTOP-HBI6OTB2"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps>
+        <step start="1542004467940" status="passed" stop="1542004472237">
+          <name>点击新建信息</name>
+          <title>点击新建信息</title>
+          <attachments/>
+          <steps/>
+        </step>
+        <step start="1542004472237" status="passed" stop="1542004484463">
+          <name>输入接收人</name>
+          <title>输入接收人</title>
+          <attachments>
+            <attachment source="bfc1bb7e-de96-4e82-9b1a-e344d7a110c0-attachment.txt" title="接收人" type="text/plain"/>
+          </attachments>
+          <steps/>
+        </step>
+        <step start="1542004484463" status="passed" stop="1542004494608">
+          <name>输入信息</name>
+          <title>输入信息</title>
+          <attachments>
+            <attachment source="ec8884da-5d48-4e91-9766-026042a68479-attachment.txt" title="信息" type="text/plain"/>
+            <attachment source="66ea16c1-1907-4c16-8643-3a9f60b3ff8e-attachment.png" title="截图" type="image/png"/>
+          </attachments>
+          <steps/>
+        </step>
+        <step start="1542004494608" status="passed" stop="1542004497749">
+          <name>点击发送</name>
+          <title>点击发送</title>
+          <attachments/>
+          <steps/>
+        </step>
+        <step start="1542004497749" status="passed" stop="1542004498228">
+          <name>确认发送成功</name>
+          <title>确认发送成功</title>
+          <attachments/>
+          <steps/>
+        </step>
+      </steps>
+    </test-case>
+  </test-cases>
+</ns0:test-suite>
